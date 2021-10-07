@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CoderGalen ^_^
 - 👀 I’m interested in coding :)
-- 🌱 I’m currently learning the code ;)
+- 🌱 I’m currently learning the C language;)
 - 💞️ I’m looking to collaborate on coding ^_^
 - 📫 How to reach me QQ3141470484 and my email is 3141470484@qq.com
 
