@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @CoderGalen ^_^
+- 👋 Hi, I’m @CoderGalen ^_^ 中国人
+
 - 👀 I’m interested in coding :)
 - 🌱 I’m currently learning the C language;)
 - 💞️ I’m looking to collaborate on coding ^_^
